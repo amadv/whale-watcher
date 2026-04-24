@@ -2,6 +2,8 @@
 
 Monitor BTC, ETH, and SOL whale wallets using 100% free APIs inside a Claude Code session.
 
+![Whale Watcher demo](demo.png)
+
 ## Files
 
 ```
